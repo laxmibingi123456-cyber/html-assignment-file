@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+padding: 0px;
+margin: 0px;
+}
+
+.main{
+    color :rgb(190, 0, 89);
+padding: 20px;
+margin: 30px;
+text-align: center;
+font-size: 70px;
+font-weight: 100;
+font-style: italic;
+}
+
+p{
+    color :rgb(255, 254, 255);
+padding: 20px;
+margin: 30px;
+text-align: center;
+font-size: 30px;
+font-weight: 100;
+font-style: italic;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    color:rgb(1, 1, 1);
+    border: none;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+
+}
